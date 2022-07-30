@@ -1,4 +1,5 @@
-### Salve ! Eu sou o Felipe Almeida
+### Salve ! Eu sou o Felipe Almeida ![image](https://user-images.githubusercontent.com/16235811/181865550-7aff2a79-a25e-4b61-abd6-82c5e7e25a12.png)
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fealm3ida) [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/falmeida.sh/) [![riot](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](Ry0ko) [![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198073291776/) [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12148942982?si=b45e3e9d735f4851)
 
