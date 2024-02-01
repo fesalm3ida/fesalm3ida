@@ -5,7 +5,7 @@
 
 ![fesalm3ida GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fesalm3ida&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8) 
+![fesalm3ida GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8) 
 
 
 ## Tecnologias
